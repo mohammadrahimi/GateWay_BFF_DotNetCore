@@ -1,0 +1,3 @@
+obj\Debug\net7.0\GrpcClient.Order\Protos/Order.cs \
+obj\Debug\net7.0\GrpcClient.Order\Protos/OrderGrpc.cs: C:/Users/Rahimi/.nuget/packages/grpc.tools/2.59.0/build/native/include/google/protobuf/empty.proto\
+ GrpcClient.Order/Protos/order.proto

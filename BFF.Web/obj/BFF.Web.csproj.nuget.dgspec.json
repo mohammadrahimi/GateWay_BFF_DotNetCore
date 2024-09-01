@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\GateWay\\BFF.Web\\BFF.Web.csproj": {}
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\BFF.Web\\BFF.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\GateWay\\BFF.Web\\BFF.Web.csproj": {
+    "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\BFF.Web\\BFF.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\GateWay\\BFF.Web\\BFF.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\BFF.Web\\BFF.Web.csproj",
         "projectName": "BFF.Web",
-        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\GateWay\\BFF.Web\\BFF.Web.csproj",
+        "projectPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\BFF.Web\\BFF.Web.csproj",
         "packagesPath": "C:\\Users\\Rahimi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\GateWay\\BFF.Web\\obj\\",
+        "outputPath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\BFF.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,20 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.28.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.59.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.59.0, )"
+            },
             "Mapster": {
               "target": "Package",
               "version": "[7.4.0, )"

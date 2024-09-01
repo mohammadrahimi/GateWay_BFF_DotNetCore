@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "AANHQExFdIp9JnP5x2xo2p6ottNKLRiYxiu+1OyyPK42psNjwljIpRNgT1/gKHlbM6DmmypUQx9Vx8YLNy/g2g==",
+  "dgSpecHash": "pIppu7KohXPoAqk6Fgu4+ZGwOzPxvYHaBeoaookm6wmzw0eN/78uoA4Q17L0GNtXfNETAot5UWAHP79YmBVFVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\GateWay\\BFF.Web\\BFF.Web.csproj",
+  "projectFilePath": "C:\\Users\\Rahimi\\Desktop\\MicroServiceEShop\\GateWay\\GateWay_BFF_DotNetCore\\BFF.Web\\BFF.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rahimi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\google.protobuf\\3.28.0\\google.protobuf.3.28.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\grpc.core.api\\2.59.0\\grpc.core.api.2.59.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\grpc.net.client\\2.59.0\\grpc.net.client.2.59.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\grpc.net.common\\2.59.0\\grpc.net.common.2.59.0.nupkg.sha512",
+    "C:\\Users\\Rahimi\\.nuget\\packages\\grpc.tools\\2.59.0\\grpc.tools.2.59.0.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\Rahimi\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
